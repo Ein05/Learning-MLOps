@@ -1,4 +1,4 @@
-# Learn MLOps from scratch
+# Learn DS from scratch
 
 A comprehensive collection of free resources to learn everything about AI
 
