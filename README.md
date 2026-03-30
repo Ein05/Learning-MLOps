@@ -17,6 +17,7 @@ Linear Algebra, Probability & Statistics, Probability, Optimization
 - [Youtube](https://www.youtube.com/watch?v=5sgJsCah9bs&list=PL8HmoRTjTSlEgS2GsFaDr9zDLC1xD9FZf)
 - [Leetcode](https://leetcode.com/)
 - [CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
+- [MS](https://learn.microsoft.com/en-us/shows/intro-to-python-development/)
 
 ## ML basic
 
