@@ -45,6 +45,7 @@ SQL, NoSQL
 
 - [Hackerrank](https://www.hackerrank.com/domains/sql)
 - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+- [Coursera](https://www.coursera.org/specializations/sql-data-analysis-business-insights)
 
 ## Bonus
 
